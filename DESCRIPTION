@@ -5,7 +5,7 @@ Version: 0.1.0
 Author: Hanno
 Maintainer: Hanno <h.hildenbrandt@rug.nl>
 Description: Internal experimental stuff.
-License: LMAA
+License: GPL-3 | file LICENSE
 Encoding: UTF-8
 LazyData: true
 Imports: Rcpp (>= 0.12.8)
