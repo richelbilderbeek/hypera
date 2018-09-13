@@ -1,0 +1,16 @@
+Package: hyperA
+Type: Package
+Title: quad float hyperA
+Version: 0.1.0
+Author: Hanno
+Maintainer: Hanno <h.hildenbrandt@rug.nl>
+Description: Internal experimental stuff.
+License: LMAA
+Encoding: UTF-8
+LazyData: true
+Imports: Rcpp (>= 0.12.8)
+LinkingTo: Rcpp, BH
+NeedsCompilation: yes
+Packaged: 2016-11-24 15:15:57 UTC; hhild
+Built: R 3.3.1; x86_64-w64-mingw32; 2016-11-30 13:06:11 UTC; windows
+Archs: i386, x64
