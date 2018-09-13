@@ -1,2 +1,3 @@
-# hyperA
-R package, by Hanno Hildenbrandt
+# hypera
+
+R package (original name: `hyperA`), by Hanno Hildenbrandt
